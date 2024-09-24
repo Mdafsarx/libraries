@@ -6,6 +6,7 @@ best animation libraries
 - https://threejs.org
 - https://lottiefiles.com
 - https://animate.style
+- https://magicui.design
 
  best ui libraries
 
