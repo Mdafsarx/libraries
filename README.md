@@ -15,3 +15,4 @@ best animation libraries
  - https://nextui.org
  - https://react.semantic-ui.com
  - https://rsuitejs.com
+ - https://ui.mantine.dev
