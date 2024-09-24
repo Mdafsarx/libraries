@@ -14,3 +14,4 @@ best animation libraries
  - https://ant.design
  - https://nextui.org
  - https://react.semantic-ui.com
+ - https://rsuitejs.com
