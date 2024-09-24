@@ -21,3 +21,5 @@ best animation libraries
  - https://ui.shadcn.com
  - https://headlessui.com
  - https://park-ui.com
+ - https://mambaui.com
+ - https://merakiui.com/components
