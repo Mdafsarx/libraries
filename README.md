@@ -13,3 +13,4 @@ best animation libraries
  - https://v2.chakra-ui.com
  - https://ant.design
  - https://nextui.org
+ - https://react.semantic-ui.com
