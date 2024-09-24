@@ -10,3 +10,4 @@ best animation libraries
  best ui libraries
 
  - https://mui.com
+ - https://v2.chakra-ui.com
