@@ -7,7 +7,7 @@ best animation libraries
 - https://lottiefiles.com
 - https://animate.style
 - https://magicui.design
-- https://www.hover.dev/components/buttons
+
 
  best ui libraries
 
@@ -24,4 +24,6 @@ best animation libraries
  - https://park-ui.com
  - https://mambaui.com
  - https://merakiui.com/components
+ -  https://www.hover.dev
+ -  
    
