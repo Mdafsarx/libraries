@@ -4,3 +4,4 @@ best libraries
 - https://gsap.com
 - https://codepen.io/collection/XLebem
 - https://threejs.org
+- https://lottiefiles.com
