@@ -17,3 +17,5 @@ best animation libraries
  - https://rsuitejs.com
  - https://ui.mantine.dev
  - https://www.radix-ui.com
+ - https://ui.shadcn.com
+ - https://headlessui.com
