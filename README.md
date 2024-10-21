@@ -8,6 +8,7 @@ best animation libraries
 - https://animate.style
 - https://magicui.design
 - https://greensock.com/gsap
+- https://www.npmjs.com/package/react-scroll-motion
 
 
  best ui libraries
