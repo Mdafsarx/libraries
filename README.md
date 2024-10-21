@@ -26,5 +26,5 @@ best animation libraries
  - https://mambaui.com
  - https://merakiui.com/components
  -  https://www.hover.dev
- -  
+ -  https://www.lightningdesignsystem.com/components
    
