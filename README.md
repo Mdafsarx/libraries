@@ -7,6 +7,7 @@ best animation libraries
 - https://lottiefiles.com
 - https://animate.style
 - https://magicui.design
+- https://greensock.com/gsap
 
 
  best ui libraries
