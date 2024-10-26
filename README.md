@@ -1,5 +1,4 @@
-best animation libraries
-
+## best animation libraries
 - https://www.react-spring.dev
 - https://gsap.com
 - https://codepen.io/collection/XLebem
@@ -11,8 +10,7 @@ best animation libraries
 - https://www.npmjs.com/package/react-scroll-motion
 
 
- best ui libraries
-
+## best ui libraries
  - https://mui.com
  - https://v2.chakra-ui.com
  - https://ant.design
@@ -28,4 +26,10 @@ best animation libraries
  - https://merakiui.com/components
  -  https://www.hover.dev
  -  https://www.lightningdesignsystem.com/components
-   
+
+## Typography
+1. https://undraw.co/illustrations
+2. https://iconscout.com/
+3. https://www.mockupworld.co/
+4. https://graphicburger.com
+5. https://unblast.com/mockups
