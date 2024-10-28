@@ -8,7 +8,7 @@
 - https://magicui.design
 - https://greensock.com/gsap
 - https://www.npmjs.com/package/react-scroll-motion
-
+- https://webdeasy.de/en/css-buttons-en/
 
 ## best ui libraries
  - https://mui.com
