@@ -9,6 +9,7 @@
 - https://greensock.com/gsap
 - https://www.npmjs.com/package/react-scroll-motion
 - https://webdeasy.de/en/css-buttons-en/
+- https://gradienty.codes/color-picker-from-image
 
 ## best ui libraries
  - https://mui.com
