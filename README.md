@@ -10,6 +10,7 @@
 - https://www.npmjs.com/package/react-scroll-motion
 - https://webdeasy.de/en/css-buttons-en/
 - https://gradienty.codes/color-picker-from-image
+- https://dev.to/webdeasy/top-20-css-buttons-animations-f41
 
 ## best ui libraries
  - https://mui.com
