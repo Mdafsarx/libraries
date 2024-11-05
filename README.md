@@ -13,6 +13,7 @@
 - https://dev.to/webdeasy/top-20-css-buttons-animations-f41
 - https://freefrontend.com/css-border-animations/
 - https://freefrontend.com/css-buttons/
+- https://getcssscan.com/
 
 ## best ui libraries
  - https://mui.com
