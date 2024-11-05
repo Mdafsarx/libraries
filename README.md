@@ -11,6 +11,8 @@
 - https://webdeasy.de/en/css-buttons-en/
 - https://gradienty.codes/color-picker-from-image
 - https://dev.to/webdeasy/top-20-css-buttons-animations-f41
+- https://freefrontend.com/css-border-animations/
+- https://freefrontend.com/css-buttons/
 
 ## best ui libraries
  - https://mui.com
