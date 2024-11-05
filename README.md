@@ -14,7 +14,7 @@
 - https://freefrontend.com/css-border-animations/
 - https://freefrontend.com/css-buttons/
 - https://getcssscan.com/
-- https://uiverse.io/buttons?page=1
+- https://uiverse.io
 
 ## best ui libraries
  - https://mui.com
