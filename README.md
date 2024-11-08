@@ -32,6 +32,7 @@
  - https://merakiui.com/components
  -  https://www.hover.dev
  -  https://www.lightningdesignsystem.com/components
+ -  https://zenui.net
 
 ## Typography
 1. https://undraw.co/illustrations
